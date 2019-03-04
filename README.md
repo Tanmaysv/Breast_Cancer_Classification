@@ -12,4 +12,5 @@
     • The number of hidden units in the first layer is 25, in the second it is 12 and finally the third layer 
       has a softmax unit with two output values.
 
-    • The output also shows a plot of cost for all iterations and the accuracy obtained for training and test samples.
+    • The output also shows a plot of cost for all iterations and the accuracy obtained for training and 
+      test samples.
